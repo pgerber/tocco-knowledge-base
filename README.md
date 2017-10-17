@@ -1,6 +1,6 @@
 # Tocco Knowledge Base
 
-[![Documentation Status](https://readthedocs.org/projects/tocco-knowledge-base/badge/?version=latest)](https://tocco-devops-docs.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/tocco-knowledge-base/badge/?version=latest)](https://tocco-knowledge-base.readthedocs.io/en/latest/?badge=latest)
 
 ## Building the Docs
 
