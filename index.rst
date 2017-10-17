@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 2
 
    DB_refactoring.rst
-
+   mail.rst
 
 
 Indices and tables

@@ -7,7 +7,7 @@ Incorrect Business Units
 Error
 ^^^^^
 
-..code::
+.. code::
 
     org.postgresql.util.PSQLException: ERROR: syntax error at or near "true"
 
