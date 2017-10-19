@@ -13,6 +13,7 @@ Contents:
 
    DB_refactoring.rst
    mail.rst
+   nginx.rst
 
 
 Indices and tables

@@ -342,3 +342,13 @@ texinfo_documents = [
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #
 # texinfo_no_detailmenu = False
+
+# added to all *.rst files
+rst_prolog = """
+    .. role:: strike
+        :class: strike
+"""
+
+# add custom style sheet
+def setup(app):
+    app.add_stylesheet("css/custom.css")
