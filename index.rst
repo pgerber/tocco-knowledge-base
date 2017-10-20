@@ -14,6 +14,7 @@ Contents:
    DB_refactoring.rst
    mail.rst
    nginx.rst
+   s3.rst
 
 
 Indices and tables
